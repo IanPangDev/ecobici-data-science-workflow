@@ -1,0 +1,6 @@
+.env
+models/__pycache__/*
+etl_historico/__pycache__/*
+etl_station/__pycache__/*
+historico_csv/*
+historico_csv_predict/*
