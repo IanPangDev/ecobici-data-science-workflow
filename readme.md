@@ -31,5 +31,4 @@ También se empleó un modelo **RandomForest**. Las variables utilizadas fueron:
 
 ### Dashboard de análisis
 
-<iframe title="EstacionesAtlas" display="flex"
-align-items= "center" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDA1YWJiOWUtMzgxNS00ZWQ2LThkOGMtNjZmNzE4M2I2YWY2IiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+<a href='https://app.powerbi.com/view?r=eyJrIjoiY2E0ZGU3YzYtNzdhYi00ZjdmLWFlN2UtN2NkZTcxZjVmZmIxIiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9' align="center"><img src="img\dashboard.png"></img></a>
