@@ -28,3 +28,8 @@ También se empleó un modelo **RandomForest**. Las variables utilizadas fueron:
 
 - `fecha`: Fecha del retiro  
 - `conteo`: Número de retiros registrados en esa fecha
+
+### Dashboard de análisis
+
+<iframe title="EstacionesAtlas" display="flex"
+align-items= "center" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDA1YWJiOWUtMzgxNS00ZWQ2LThkOGMtNjZmNzE4M2I2YWY2IiwidCI6IjVmMjgyOTEwLTE3NmYtNDU5ZC1hYjdkLWI3NDRhYTZlZmMwNyIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
